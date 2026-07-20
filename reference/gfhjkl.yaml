@@ -4,6 +4,7 @@ x-stoplight:
 info:
   title: gfhjkl
   version: '1.0'
+  description: gfhkhh
 servers:
   - url: 'http://localhost:3000'
 paths:
